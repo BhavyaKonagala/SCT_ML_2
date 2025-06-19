@@ -15,6 +15,6 @@ Visualized clusters using 2D (Matplotlib) and 3D (Plotly)
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly
 
 📁 Dataset:
-Mall_Customers.csv from Kaggle
-Customer Segmentation Dataset
+Mall_Customers.csv from Kaggle:
+https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
